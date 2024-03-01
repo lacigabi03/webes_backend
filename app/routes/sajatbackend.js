@@ -19,7 +19,7 @@ module.exports = function(app) {
       host: 'localhost',
       user: 'root',
       password: '',
-      database: 'web_zarodoga'
+      database: 'webes_utazas_lg_tv'
     })
     
     connection.connect()
